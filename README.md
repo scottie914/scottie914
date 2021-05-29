@@ -8,3 +8,5 @@
 scottie914/scottie914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Fatal error: Uncaught TypeError: mysqli_stmt_execute(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in C:\xampp\htdocs\ok\try.php:21 Stack trace: #0 C:\xampp\htdocs\ok\try.php(21): mysqli_stmt_execute(false) #1 {main} thrown in C:\xampp\htdocs\ok\try.php on line 21
